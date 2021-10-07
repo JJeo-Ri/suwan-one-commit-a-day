@@ -9,7 +9,7 @@
 | ✅    | 2021.10.04 | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3) | DFS/BFS          | [링크](./dfs-bfs/타겟넘버.py)     |
 | ✅    | 2021.10.05 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | 정렬             | [링크](./align/가장큰수.py)       |
 | ✅    | 2021.10.06 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 스택/큐          | [링크](./stack-queue/프린터.py)   |
-| 🔳    |            | 위장                                                         | 해시             |                                   |
+| ✅    | 2021.10.07 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 해시             | [링크](./hash/위장.py)            |
 | 🔳    |            | 주식가격                                                     | 스택/큐          |                                   |
 | 🔳    |            | 더 맵게                                                      | 힙(heap)         |                                   |
 | 🔳    |            | 다리를 지나는 트럭                                           | 스택/큐          |                                   |
