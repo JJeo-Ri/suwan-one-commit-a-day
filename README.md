@@ -11,7 +11,7 @@
 | ✅    | 2021.10.06 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | 스택/큐          | [링크](./stack-queue/프린터.py)   | [링크](https://ssuwani.github.io/category/algorithm/stack-queue/printer/) |
 | ✅    | 2021.10.07 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | 해시             | [링크](./hash/위장.py)            | [링크](https://ssuwani.github.io/category/algorithm/hash/clothes/) |
 | ✅    | 2021.10.08 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | 스택/큐          | [링크](./stack-queue/주식가격.py) | [링크](https://ssuwani.github.io/category/algorithm/stack-queue/stock-price/) |
-| 🔳    |            | 더 맵게                                                      | 힙(heap)         |                                   |                                                              |
+| ✅    | 2021.10.09 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | 힙(heap)         | [링크](./heap/더맵게.py)          | [링크](https://ssuwani.github.io/category/algorithm/heap/spicy) |
 | 🔳    |            | 다리를 지나는 트럭                                           | 스택/큐          |                                   |                                                              |
 | 🔳    |            | 카펫                                                         | 완전탐색         |                                   |                                                              |
 | 🔳    |            | H-Index                                                      | 정렬             |                                   |                                                              |
