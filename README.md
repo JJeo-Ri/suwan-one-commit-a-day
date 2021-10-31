@@ -25,7 +25,7 @@
 | ✅    | 2021.10.29 | [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | 2020 Kakao Blind    | [링크](./kakao/괄호변환.py)                    | [링크](https://ssuwani.github.io/category/algorithm/kakao/transfer_bracket) |
 | ✅    | 2021.10.30 | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | 그리디              | [링크](./greedy/큰수만들기.py)                 | [링크](https://ssuwani.github.io/category/algorithm/greedy/make_biggest_number) |
 | ✅    | 2021.10.31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | 그리디              | [링크](./greedy/구명보트.py)                   | [링크](https://ssuwani.github.io/category/algorithm/greedy/life_boat) |
-| 🔳    |            | 스킬트리                                                     | 2018 Summer         |                                                |                                                              |
+| ✅    | 2021.11.01 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | 2018 Summer         | [링크](./summer-winter-coding/스킬트리.py)     | [링크](https://ssuwani.github.io/category/algorithm/summer-winter-coding/skill_tree) |
 | 🔳    |            | 최댓값과 최솟값                                              | 연습문제            |                                                |                                                              |
 | 🔳    |            | 피보나치 수                                                  | 연습문제            |                                                |                                                              |
 
