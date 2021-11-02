@@ -27,7 +27,7 @@
 | ✅    | 2021.10.31 | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | 그리디              | [링크](./greedy/구명보트.py)                   | [링크](https://ssuwani.github.io/category/algorithm/greedy/life_boat) |
 | ✅    | 2021.11.01 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | 2018 Summer         | [링크](./summer-winter-coding/스킬트리.py)     | [링크](https://ssuwani.github.io/category/algorithm/summer-winter-coding/skill_tree) |
 | ✅    | 2021.11.02 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | 연습문제            | [링크](./practice/최댓값과최솟값.py)           | [링크](https://ssuwani.github.io/category/algorithm/practice/minmax) |
-| 🔳    |            | 피보나치 수                                                  | 연습문제            |                                                |                                                              |
+| ✅    | 2021.11.03 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | 연습문제            | [링크](./practice/피보나치수.py)               | [링크](https://ssuwani.github.io/category/algorithm/practice/fibo) |
 
 
 
