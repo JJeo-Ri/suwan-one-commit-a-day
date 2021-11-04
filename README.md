@@ -28,6 +28,7 @@
 | ✅    | 2021.11.01 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | 2018 Summer         | [링크](./summer-winter-coding/스킬트리.py)     | [링크](https://ssuwani.github.io/category/algorithm/summer-winter-coding/skill_tree) |
 | ✅    | 2021.11.02 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939) | 연습문제            | [링크](./practice/최댓값과최솟값.py)           | [링크](https://ssuwani.github.io/category/algorithm/practice/minmax) |
 | ✅    | 2021.11.03 | [피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | 연습문제            | [링크](./practice/피보나치수.py)               | [링크](https://ssuwani.github.io/category/algorithm/practice/fibo) |
+| ✅    | 2021.11.04 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 완전탐색            | [링크](./brute-force/모의고사.py)              | [링크](https://ssuwani.github.io/category/algorithm/brute-force/mock_exam/) |
 
 
 
