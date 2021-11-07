@@ -31,6 +31,7 @@
 | ✅    | 2021.11.04 | [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | 프로그래머스 | 완전탐색            | [링크](./brute-force/모의고사.py)              | [링크](https://ssuwani.github.io/category/algorithm/programmers/brute-force/mock_exam/) |
 | ✅    | 2021.11.05 | [설탕배달](https://www.acmicpc.net/problem/2839)             | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/2839_설탕배달.py)              | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/sugar_delivery) |
 | ✅    | 2021.11.06 | [1로 만들기](https://www.acmicpc.net/problem/1463)           | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/1463_1로만들기.py)             | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/make_one) |
+| ✅    | 2021.11.08 | [Binary Gap](https://app.codility.com/c/run/training7JX8WJ-RVH/) | Codility     |                     | [링크](./codility/binary_gap.py)               | [링크](https://ssuwani.github.io/category/algorithm/codility/binary_gap) |
 
 
 
