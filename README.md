@@ -33,6 +33,7 @@
 | ✅    | 2021.11.06 | [1로 만들기](https://www.acmicpc.net/problem/1463)           | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/1463_1로만들기.py)             | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/make_one) |
 | ✅    | 2021.11.08 | [Binary Gap](https://app.codility.com/c/run/training7JX8WJ-RVH/) | Codility     |                     | [링크](./codility/binary_gap.py)               | [링크](https://ssuwani.github.io/category/algorithm/codility/binary_gap) |
 | ✅    | 2021.11.09 | [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) | Codility     |                     | [링크](./codility/OddOccurrencesInArray.py)    | [링크](https://ssuwani.github.io/category/algorithm/codility/OddOccurrencesInArray) |
+| ✅    | 2021.11.10 | [FirstUnique](https://app.codility.com/programmers/trainings/4/first_unique/start/) | Codility     |                     | [링크](./codility/FirstUnique.py)              | [링크](https://ssuwani.github.io/category/algorithm/codility/FirstUnique) |
 
 
 
