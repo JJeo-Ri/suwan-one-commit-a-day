@@ -40,6 +40,7 @@
 | ✅    | 2021.11.15 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)       | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/123더하기.py)                  | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/add_one_two_three) |
 | ✅    | 2021.11.16 | [피보나치 수 5](https://www.acmicpc.net/problem/10870)       | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/피보나치수5.py)                | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/fibo5) |
 | ✅    | 2021.11.17 | [2×n 타일링](https://www.acmicpc.net/problem/11726)          | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/2XN타일링.py)                  | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/tile) |
+| ✅    | 2021.11.18 | [RGB거리](https://www.acmicpc.net/problem/1149)              | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/RGB거리.py)                    | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/rgb_distance) |
 
 
 
