@@ -43,6 +43,7 @@
 | ✅    | 2021.11.18 | [RGB거리](https://www.acmicpc.net/problem/1149)              | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/RGB거리.py)                    | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/rgb_distance) |
 | ✅    | 2021.11.18 | [계단오르기](https://www.acmicpc.net/problem/2579)           | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/계단오르기.py)                 | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/stairs) |
 | ✅    | 2021.11.19 | [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 백준         | 그래프 이론         | [링크](./boj/graph/dfs_bfs.py)                 | [링크](https://ssuwani.github.io/category/algorithm/boj/graph/dfs_bfs) |
+| ✅    | 2021.11.19 | [미로 탐색](https://www.acmicpc.net/problem/2178)            | 백준         | 그래프 이론         | [링크](./boj/graph/maze.py)                    | [링크](https://ssuwani.github.io/category/algorithm/boj/graph/maze) |
 
 
 
