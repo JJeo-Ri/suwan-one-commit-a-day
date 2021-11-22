@@ -41,9 +41,10 @@
 | ✅    | 2021.11.16 | [피보나치 수 5](https://www.acmicpc.net/problem/10870)       | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/피보나치수5.py)                | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/fibo5) |
 | ✅    | 2021.11.17 | [2×n 타일링](https://www.acmicpc.net/problem/11726)          | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/2XN타일링.py)                  | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/tile) |
 | ✅    | 2021.11.18 | [RGB거리](https://www.acmicpc.net/problem/1149)              | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/RGB거리.py)                    | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/rgb_distance) |
-| ✅    | 2021.11.18 | [계단오르기](https://www.acmicpc.net/problem/2579)           | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/계단오르기.py)                 | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/stairs) |
-| ✅    | 2021.11.19 | [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 백준         | 그래프 이론         | [링크](./boj/graph/dfs_bfs.py)                 | [링크](https://ssuwani.github.io/category/algorithm/boj/graph/dfs_bfs) |
-| ✅    | 2021.11.19 | [미로 탐색](https://www.acmicpc.net/problem/2178)            | 백준         | 그래프 이론         | [링크](./boj/graph/maze.py)                    | [링크](https://ssuwani.github.io/category/algorithm/boj/graph/maze) |
+| ✅    | 2021.11.19 | [계단오르기](https://www.acmicpc.net/problem/2579)           | 백준         | 다이나믹프로그래밍  | [링크](./boj/dp/계단오르기.py)                 | [링크](https://ssuwani.github.io/category/algorithm/boj/dp/stairs) |
+| ✅    | 2021.11.20 | [DFS와 BFS](https://www.acmicpc.net/problem/1260)            | 백준         | 그래프 이론         | [링크](./boj/graph/dfs_bfs.py)                 | [링크](https://ssuwani.github.io/category/algorithm/boj/graph/dfs_bfs) |
+| ✅    | 2021.11.22 | [미로 탐색](https://www.acmicpc.net/problem/2178)            | 백준         | 그래프 이론         | [링크](./boj/graph/maze.py)                    | [링크](https://ssuwani.github.io/category/algorithm/boj/graph/maze) |
+| ✅    | 2021.11.23 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)       | 백준         | 그래프 이론         | [링크](./boj/graph/apart.py)                   | [링크](https://ssuwani.github.io/category/algorithm/boj/graph/apart) |
 
 
 
