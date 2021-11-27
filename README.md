@@ -47,6 +47,7 @@
 | ✅    | 2021.11.23 | [단지번호붙이기](https://www.acmicpc.net/problem/2667)       | 백준         | 그래프 이론         | [링크](./boj/graph/apart.py)                   | [링크](https://ssuwani.github.io/category/algorithm/boj/graph/apart) |
 | ✅    | 2021.11.24 | [괄호](https://www.acmicpc.net/problem/9012)                 | 백준         | 자료구조            | [링크](./boj/data_structure/괄호.py)           | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/bracket) |
 | ✅    | 2021.11.26 | [제로](https://www.acmicpc.net/problem/10773)                | 백준         | 자료구조            | [링크](./boj/data_structure/제로.py)           | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/zero) |
+| ✅    | 2021.11.27 | [오큰수](https://www.acmicpc.net/problem/17298)              | 백준         | 자료구조            | [링크](./boj/data_structure/오큰수.py)         | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/right_big) |
 
 
 
