@@ -48,6 +48,7 @@
 | ✅    | 2021.11.24 | [괄호](https://www.acmicpc.net/problem/9012)                 | 백준         | 자료구조            | [링크](./boj/data_structure/괄호.py)           | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/bracket) |
 | ✅    | 2021.11.26 | [제로](https://www.acmicpc.net/problem/10773)                | 백준         | 자료구조            | [링크](./boj/data_structure/제로.py)           | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/zero) |
 | ✅    | 2021.11.27 | [오큰수](https://www.acmicpc.net/problem/17298)              | 백준         | 자료구조            | [링크](./boj/data_structure/오큰수.py)         | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/right_big) |
+| ✅    | 2021.11.28 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)      | 백준         | 자료구조            | [링크](./boj/data_structure/가운데를말해요.py) | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/say_mid) |
 
 
 
