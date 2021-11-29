@@ -49,6 +49,7 @@
 | ✅    | 2021.11.26 | [제로](https://www.acmicpc.net/problem/10773)                | 백준         | 자료구조            | [링크](./boj/data_structure/제로.py)           | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/zero) |
 | ✅    | 2021.11.27 | [오큰수](https://www.acmicpc.net/problem/17298)              | 백준         | 자료구조            | [링크](./boj/data_structure/오큰수.py)         | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/right_big) |
 | ✅    | 2021.11.28 | [가운데를 말해요](https://www.acmicpc.net/problem/1655)      | 백준         | 자료구조            | [링크](./boj/data_structure/가운데를말해요.py) | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/say_mid) |
+| ✅    | 2021.11.29 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)        | 백준         | 자료구조            | [링크](./boj/data_structure/패션왕신해빈.py)   | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/fashion) |
 
 
 
