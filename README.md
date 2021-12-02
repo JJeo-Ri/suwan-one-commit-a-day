@@ -52,6 +52,7 @@
 | ✅    | 2021.11.29 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)        | 백준         | 자료구조            | [링크](./boj/data_structure/패션왕신해빈.py)   | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/fashion) |
 | ✅    | 2021.11.30 | [카드 정렬하기](https://www.acmicpc.net/problem/1715)        | 백준         | 자료구조            | [링크](./boj/data_structure/카드정렬하기.py)   | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/cards) |
 | ✅    | 2021.12.01 | [문자열 폭발](https://www.acmicpc.net/problem/9935)          | 백준         | 자료구조            | [링크](./boj/data_structure/문자열폭발.py)     | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/bumb_string) |
+| ✅    | 2021.12.02 | [완전 제곱수](https://www.acmicpc.net/problem/1977)          | 백준         | 자료구조            | [링크](./boj/implement/완전제곱수.py)          | [링크](https://ssuwani.github.io/category/algorithm/boj/implement/perfect_square) |
 
 
 
