@@ -54,6 +54,7 @@
 | ✅    | 2021.12.01 | [문자열 폭발](https://www.acmicpc.net/problem/9935)          | 백준         | 자료구조            | [링크](./boj/data_structure/문자열폭발.py)     | [링크](https://ssuwani.github.io/category/algorithm/boj/data_structure/bumb_string) |
 | ✅    | 2021.12.02 | [완전 제곱수](https://www.acmicpc.net/problem/1977)          | 백준         | 자료구조            | [링크](./boj/implement/완전제곱수.py)          | [링크](https://ssuwani.github.io/category/algorithm/boj/implement/perfect_square) |
 | ✅    | 2021.12.03 | [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | 프로그래머스 | 2019 Kakao Blind    | [링크](./kakao/실패율.py)                      | [링크](https://ssuwani.github.io/category/algorithm/programmers/kakao/fail_ratio) |
+| ✅    | 2021.12.07 | [보물](https://www.acmicpc.net/problem/1026)                 | 백준         | 그리디              | [링크](./boj/greedy/보물.py)                   | [링크](https://ssuwani.github.io/category/algorithm/boj/greedy/treasure) |
 
 
 
