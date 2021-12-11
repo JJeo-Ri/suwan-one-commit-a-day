@@ -57,6 +57,7 @@
 | ✅    | 2021.12.07 | [보물](https://www.acmicpc.net/problem/1026)                 | 백준         | 그리디              | [링크](./boj/greedy/보물.py)                   | [링크](https://ssuwani.github.io/category/algorithm/boj/greedy/treasure) |
 | ✅    | 2021.12.08 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541)        | 백준         | 그리디              | [링크](./boj/greedy/잃어버린괄호.py)           | [링크](https://ssuwani.github.io/category/algorithm/boj/greedy/lost_bracket) |
 | ✅    | 2021.12.09 | [뒤집기](https://www.acmicpc.net/problem/1439)               | 백준         | 그리디              | [링크](./boj/greedy/뒤집기.py)                 | [링크](https://ssuwani.github.io/category/algorithm/boj/greedy/flip) |
+| ✅    | 2021.12.11 | [수들의 합](https://www.acmicpc.net/problem/1789)            | 백준         | 그리디              | [링크](./boj/greedy/수들의합.py)               |                                                              |
 
 
 
