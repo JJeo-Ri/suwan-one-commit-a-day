@@ -59,7 +59,7 @@
 | ✅    | 2021.12.09 | [뒤집기](https://www.acmicpc.net/problem/1439)               | 백준         | 그리디              | [링크](./boj/greedy/뒤집기.py)                 | [링크](https://ssuwani.github.io/category/algorithm/boj/greedy/flip) |
 | ✅    | 2021.12.11 | [수들의 합](https://www.acmicpc.net/problem/1789)            | 백준         | 그리디              | [링크](./boj/greedy/수들의합.py)               |                                                              |
 | ✅    | 2021.12.12 | [캠핑](https://www.acmicpc.net/problem/4796)                 | 백준         | 그리디              | [링크](./boj/greedy/캠핑.py)                   |                                                              |
-
+| ✅    | 2021.12.21 | [접미사 배열](https://www.acmicpc.net/problem/11656)                 | 백준         | 문자열              | [링크](./boj/string/접미사배열.py)                   |                                                              |
 
 
 
