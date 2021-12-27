@@ -61,6 +61,7 @@
 | ✅    | 2021.12.12 | [캠핑](https://www.acmicpc.net/problem/4796)                 | 백준         | 그리디              | [링크](./boj/greedy/캠핑.py)                   |                                                              |
 | ✅    | 2021.12.21 | [접미사 배열](https://www.acmicpc.net/problem/11656)                 | 백준         | 문자열              | [링크](./boj/string/접미사배열.py)                   |                                                              |
 | ✅    | 2021.12.23 | [전화번호 목록](https://www.acmicpc.net/problem/5052)                 | 백준         | 문자열              | [링크](./boj/string/전화번호목록.py)                   |                                                              |
+| ✅    | 2021.12.27 | [30](https://www.acmicpc.net/problem/10610)                 | 백준         | 문자열              | [링크](./boj/string/30.py)                   |                                                              |
 
 
 
